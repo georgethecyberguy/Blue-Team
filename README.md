@@ -1,4 +1,4 @@
-# HTB-CDSA
+# Blue Team Concepts and Terminology
 
 This page aims to give people an idea of concepts and terminology related to Blue Teaming in a digestible manner.
 
