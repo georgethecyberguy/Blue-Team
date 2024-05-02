@@ -15,15 +15,20 @@ Events with adverse outcomes (unauthorized access, installation of malware)
 Recon > Weaponize > Deliver > Exploit > Install > C&C > Action
 
 Recon
+
 In the initial stage, the attacker chooses a target and performs information gathering (OSINT). They want to gather as much information as possible. Information from this stage can be used later on throughout the kill chain. Attackers will use passive and active gathering methods (think Social Media and scanning external sites).
 
 Weaponize
-In this stage, malware is developed and inserted into a payload. The goal is to craft something that will bypass detections and create a pathway into the target through remote access.
+
+In this stage, malware is developed and inserted into a payload. The goal is to craft something to bypass detections and create a pathway into the target through remote access.
 
 Delivery
+
 The payload is sent to the victims associated with that target. Phishing emails are a classic example of using typosquatting to represent a fake version of the target's website to gain user credentials. 
 
 Exploitation
+
 This stage has the payload active/triggered, and the attacker tries to gain control/access.
 
 Installation
+
