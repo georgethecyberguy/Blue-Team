@@ -2,16 +2,16 @@
 
 This page aims to give people an idea of concepts and terminology related to Blue Teaming in a digestible manner.
 
-Incident Handling
-When personal and business data is compromised, swiftly responding and effectively investigating are critical. After the investigation, remediation should be done to resolve the disruption. An essential step in this process is prioritization, which involves handling the most critical alerts first. 
+# <span style="font-size: 28px;">Incident Handling</span>
+When personal and business data is compromised, swiftly responding and effectively investigating are critical. After the investigation, remediation should be done to resolve the disruption. An essential step in this process is prioritization, which involves first handling the most critical alerts. 
 
-Events
+# <span style="font-size: 28px;">Events</span>
 Actions that happen throughout a network/system
 
-Incident
+# <span style="font-size: 28px;">Incidents</span>
 Events with adverse outcomes (unauthorized access, installation of malware)
 
-Cyber Kill Chain (7 Steps)
+# <span style="font-size: 28px;">Cyber Kill Chain (7 Steps)</span>
 Recon > Weaponize > Deliver > Exploit > Install > C&C > Action
 
 Recon
